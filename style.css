@@ -1,0 +1,156 @@
+.container
+  {    
+ background-color: rgb(146, 1, 151);
+min-width: 550px;
+overflow: clip;
+
+
+}
+/* This is the inside color of the whole page 
+V
+V */
+.goober{
+  background-color: rgb(255, 254, 166);
+margin-left:50px;
+margin-right: 50px;
+
+
+
+
+
+}
+.b1{
+  color: rgb(196, 196, 66);
+  text-align:center;
+  text-anchor: inherit;
+float: left;
+}
+.b2
+{ text-align: center;
+  color:blueviolet;
+  float: left;
+  padding-right: 70px;
+}
+
+.b3 {
+  color:darkseagreen;
+  padding-right: 70px;
+  text-align: center;
+
+}
+.ul{
+
+  display: flex;
+  margin: 0;
+  padding:0;
+  text-align: center;
+}
+.li 
+{
+  align-content:center;
+  margin: 10px;
+}
+.World links 
+{
+  margin-left: 30%;
+
+}
+.grid-container
+{
+ 
+grid-row:  auto;
+
+}
+
+.grid-item1
+{ grid-area:  auto;
+ color: lightblue;
+ text-align: left;
+text-anchor: initial;
+
+background-color:cadetblue;
+}
+
+
+
+.grid-item2
+{grid-area:  auto;
+ background-color: green;
+image-orientation:  initial;
+color: saddlebrown;
+}
+
+
+
+.text2
+{
+padding-right: 70px;
+  text-align: right;
+margin-right: 40px;
+float:up;
+color: saddlebrown;
+}
+
+
+
+.grid-item3
+{
+background-color: darkred;
+color: gold;
+}
+
+.grid-item4
+{
+background-color: lightskyblue;
+color: white;
+}
+
+.grid-item5
+{
+  background-color: tomato;
+  color: lightgoldenrodyellow;
+}
+.grid-item6
+{ 
+  background-color: lightsalmon;
+}
+
+
+.text6
+{
+  padding-right: 70px;
+  text-align: left;
+margin-right: 40px;
+float: up;
+color: orangered;
+}
+.BG
+{
+  Color: hotpink;
+}
+
+.woah 
+{
+  color:blue;
+font-size: 10px;
+}
+
+.grid-container1
+{
+  background-color: lightseagreen;
+  min-width: 550px;
+overflow: clip;
+
+}
+
+.PECK NECK
+{
+  background-color: orange;
+  margin-left:50px;
+margin-right: 50px;
+}
+.myurrrderrr
+{
+
+}
+
